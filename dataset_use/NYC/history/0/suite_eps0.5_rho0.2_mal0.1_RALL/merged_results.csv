@@ -1,0 +1,2 @@
+method,suite_idx,epsilon,rho,mal_rate,rounds,rmse_last,rmse_mean,rmse_std,var_mean,resid_var_mean,bytes_mean,enc_ops_mean,time_s_mean
+sa_htd_paper,1,0.5,0.2,0.1,7683,3.209655781188466,3.0915228928756737,1.2311046124201999,14.163563068001476,7.572833366940439,1086.912924638813,67.9320577899258,0.0012159819530351513

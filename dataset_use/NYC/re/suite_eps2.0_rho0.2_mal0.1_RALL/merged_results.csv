@@ -1,0 +1,2 @@
+method,suite_idx,epsilon,rho,mal_rate,rounds,rmse_last,rmse_mean,rmse_std,var_mean,resid_var_mean,bytes_mean,enc_ops_mean,time_s_mean
+fed_sense,7,2.0,0.2,0.1,7683,1.767767400937535,3.905681977525076,3.527254454237394,9.318042460577955,8.719408242653875,694.5974228816868,57.8831185734739,0.007144816201381443

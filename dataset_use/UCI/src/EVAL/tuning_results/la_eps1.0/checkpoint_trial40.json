@@ -1,0 +1,12 @@
+{
+  "trial": 40,
+  "best_score": 17.149076884499166,
+  "best_params": {
+    "epsilon": 1.0,
+    "routing_intensity": 0.669559083531865,
+    "communication_budget": 1.312985951640445,
+    "smoothing_strength": 0.6579515021722835,
+    "adaptive_sensitivity": 0.4870458719759589
+  },
+  "timestamp": "2025-11-21 20:30:21"
+}

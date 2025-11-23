@@ -1,0 +1,8 @@
+{
+  "epsilon": 1.0,
+  "routing_intensity": 0.466602116265206,
+  "communication_budget": 1.0450003086495652,
+  "smoothing_strength": 0.4604138907516757,
+  "adaptive_sensitivity": 0.41769936472692226,
+  "best_rmse": 3.7603425990363033
+}
